@@ -1,0 +1,7 @@
+application: my-helloworldapp
+runtime: java
+api_version: 1
+
+handlers:
+- url: /admin/*
+  login: admin
